@@ -62,7 +62,6 @@ const Home = () => {
     <div className="p-3 space-y-6">
       <div className="flex items-center justify-between">
         <h1 className="text-5xl font-serif">Home</h1>
-        <p className="text-lg text-gray-500">a private social media app.</p>
 
         <Button asChild>
           <Link to="/create">Create</Link>
